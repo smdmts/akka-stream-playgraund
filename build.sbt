@@ -1,4 +1,4 @@
-name := "scalaz-playground"
+name := "akka-stream-playground"
 scalaVersion := "2.11.7"
 
 version := "0.1.0 "

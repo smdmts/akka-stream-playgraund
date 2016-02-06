@@ -1,4 +1,4 @@
-# scalaz-playground
+# akka-stream
 
 Let's akka-stream on REPL!
 
@@ -10,4 +10,4 @@ $ ./akka
 scala>
 ```
 
-akka-stream is imported automaticaly. You can start Scalaz immediately.
+akka-stream is imported automaticaly.

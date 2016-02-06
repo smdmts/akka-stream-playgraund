@@ -18,4 +18,4 @@ libraryDependencies ++= Seq(
   "org.scalaz" %% "scalaz-core" % "7.2.0"
 )
 
-initialCommands in console := "import scalaz._; import Scalaz._; import akka.actor.ActorSystem ; import akka.stream.scaladsl._ ; import akka.stream._"
+initialCommands in console := "import scalaz._; import Scalaz._; import akka.actor.ActorSystem ; import akka.stream.scaladsl._ ; import akka.stream._ ; import scala.concurrent.Future"
